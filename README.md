@@ -8,7 +8,7 @@ Description:  test
 
 ## TABLE OF CONTENTS:
 
-* [Installation](#installation)
+* [Installation](#program-installation)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
@@ -17,15 +17,20 @@ Description:  test
 
 
 
-### Installation:    test
+### Program Installation:    
+test
 
-### Usage:  test
+### Usage:  
+test
 
-### Contributing:  test
+### Contributing:  
+test
 
-### Tests:  test
+### Tests:  
+test
 
-### License:    The MIT License
+### License:    
+The MIT License
 
         Permission is hereby granted, free of charge, to any person obtaining a
       copy of this software and associated documentation files (the "Software"),
