@@ -1,4 +1,6 @@
-#TEST  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+#TEST
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Description:  test
 
@@ -13,9 +15,10 @@ Usage:  test
 
 Contributing:  test
 
-Tests:  tes
+Tests:  test
 
-License:  The MIT License
+License:        The MIT License
+
         Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal i
 n the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the 
 Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -28,7 +31,6 @@ TION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH 
         [MIT](https://opensource.org/licenses/MIT)
 
 Questions:
+        Github:  [eugene32](https://github.com/eugene32)
 
-        Github:  [tet](https://github.com/tet)
-
-        Email:   [test](mailto:test)
+        Email:   [ekahiyang@gmail.com](mailto:ekahiyang@gmail.com)
