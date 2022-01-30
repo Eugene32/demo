@@ -54,8 +54,6 @@ The MIT License
 
 ### Questions:
 
-        Github:
-[eugene32](https://github.com/eugene32)
+        Github:  [eugene32](https://github.com/eugene32)
 
-        Email:
-[ekahiyang@gmail.com](mailto:ekahiyang@gmail.com)
+        Email:  [ekahiyang@gmail.com](mailto:ekahiyang@gmail.com)
